@@ -1,0 +1,5 @@
+name: Kick
+version: 1.0.0
+main: kick\main
+api: 3.0.0
+author: NewTheBuilder
